@@ -5,6 +5,7 @@ Countries around the world are looking to ease the severity of lockdown measures
 Given the safe distancing constraints many venues have no choice but to reduce the capacity their space provide. 
 As such, it is desirable to find out the optimal capacity given the new safe distancing constraints.
 
+We seek to design an algorithm to help with this.
 
 ## Notebook
 
