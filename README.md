@@ -14,3 +14,5 @@ More details are found in the notebook itself.
 
 ## Request for Feedback
 If you have any feedback or suggestions on how to better improve the algorithm do submit a issue, I will check it out when I find time.
+
+Do approach me at my socials, I'm active on [Twitter](https://twitter.com/henlojseam) and [Instagram](https://instagram.com/henlojseam)
